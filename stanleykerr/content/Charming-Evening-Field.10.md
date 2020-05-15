@@ -5,6 +5,7 @@ description: Katerina
 type: post
 image: "/images/katerina1.jpg"
 categories:
+- Food
 - Portraits
 tags:
 - Photos
