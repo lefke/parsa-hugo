@@ -3,7 +3,7 @@ title: Amelie
 date: 2020-05-14T23:00:00+00:00
 description: Amelie
 type: featured
-image: "/images/stanleykerr/static/images/amelie-final18x18in.jpg"
+image: "/images/amelie-final18x18in.jpg"
 categories:
 - Portrait
 tags:
@@ -28,7 +28,7 @@ labore et dolore magnam aliquam quaerat voluptatem.
 
 ![](../images/post-img.jpg)
 
-![](/images/stanleykerr/static/images/amilie-with-painting.jpg)
+![](/images/amilie-with-painting.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
