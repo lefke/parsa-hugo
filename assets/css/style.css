@@ -34,11 +34,11 @@ body {
   padding: 0 30px;
 }
 
-.masonry-section .card-img-overlay {
+.masonry-section .card .card-img-overlay {
   visibility: hidden;
 }
 
-.masonry-section .card-img-overlay:hover {
+.masonry-section .card:hover .card-img-overlay {
   visibility: visible;
 }
 
@@ -359,7 +359,7 @@ a.text-dark:hover {
 }
 
 .bg-secondary {
-  background: #E4E2E4 !important;
+  background: #ffffff !important;
 }
 
 .text-primary {
