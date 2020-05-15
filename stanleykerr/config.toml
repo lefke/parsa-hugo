@@ -4,14 +4,8 @@ paginate = "12"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Stanley Kerr"
-[[menu.main]]
-URL = "categories/portrait/"
-name = "Portraits"
-weight = "1"
-[[menu.main]]
-URL = "about"
-name = "About"
-weight = 2
+[menu]
+main = []
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
