@@ -27,7 +27,7 @@ body {
 }
 
 .navbar-brand {
-  max-width: 25%;
+  max-width: 20%;
 }
 
 p, .paragraph {
@@ -117,11 +117,11 @@ h6, .h6 {
 }
 
 .btn-primary:active {
-  background: #ff6f00 !important;
+  background: #C77739 !important;
 }
 
 .btn-primary:hover {
-  background: #F9E1CB;
+  background: #C77739;
 }
 
 .btn-outline-light {
@@ -152,12 +152,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #F9E1CB;
+  background: #C77739;
   color: #fff;
 }
 
 ::selection {
-  background: #F9E1CB;
+  background: #C77739;
   color: #fff;
 }
 
