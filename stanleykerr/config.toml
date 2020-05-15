@@ -11,6 +11,7 @@ weight = 2
 [[menu.main]]
 URL = "https://stanleykerr.netlify.app/categories/portrait/"
 name = "Portraits"
+url = "categories/portrait"
 weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
