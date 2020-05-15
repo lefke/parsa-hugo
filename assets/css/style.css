@@ -26,6 +26,10 @@ body {
   letter-spacing: +.05rem;
 }
 
+.navbar-brand {
+  max-width: 25%;
+}
+
 p, .paragraph {
   font-weight: 400;
   font-size: 15px;
