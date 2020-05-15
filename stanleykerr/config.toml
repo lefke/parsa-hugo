@@ -1,6 +1,6 @@
 baseURL = "https://stanleykerr.netlify.app"
 languageCode = "en-us"
-paginate = 6
+paginate = "12"
 summaryLength = "10"
 theme = "parsa-hugo"
 title = "Stanley Kerr"
