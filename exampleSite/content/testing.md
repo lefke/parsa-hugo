@@ -5,7 +5,7 @@ description = "Florence"
 image = "images/florence-final.jpg"
 tags = []
 title = "testing"
-type = "post"
+type = "featured"
 
 +++
 Florence
