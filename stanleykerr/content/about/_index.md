@@ -5,30 +5,65 @@ description: This is meta description
 image: images/author.jpg
 
 ---
-Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea
-generate for the agency complay smart and elegant design When, while the lovely valley teems with vapour
-around me, and the meridian sun strikes the upper surface of the impenetrable foliage of my trees, and but a
-few stray gleams steal into the inner sanctuary, I throw myself down among the tall grass by the trickling
-stream; and, as I lie close to the earth, a thousand unknown plants are noticed by me.
+## Biography
 
-I hear the buzz
-of the little world among the stalks, and grow familiar with the countless indescribable forms of the insects
-and flies, then I feel the presence of the Almighty, who formed us in his own image, and the breath of that
-universal love which bears and sustains.
+Trained in Drawing and Painting at Maidstone College of Art, where he studied with David Hockney, Stanley Kerr gradually moved through the world of fine art into the conceptual art scene and into commercial art, design and illustration. The last 15 years have been taken up with working as a Creative Director with a major international advertising agency while continuing his work in painting (which is now his full-time occupation). He has participated in group shows both here and abroad where he has a number of works in private collections.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+### Press
 
+> Extraordinary in their psychological acuity, Stanley Kerr's portraits evince a skilful grasp of colour and texture. They disclose a fleeting truth that is as much technical intuition as emotional radar. Faces are taken from the side, obscured, in awkward postures, at times in traditional 3/4 profile, limned in subtle tonalities and with stark expressive power that calls on affinities as diverse as Renaissance portraiture and David Hockney, with whom Stanley Kerr studied. The compositions are precise and uncluttered, the figure or face against a background of some rich, modulated colour. There is an electricity to their classical poise, an aura of self-sufficiency as object vying with a personal force barely containable by paint. Until recently Creative Director at an international advertising agency, Stanley Kerr has garnered a number of prestigious awards for various brand campaigns. He has been active and visible as a painter on the international scene for many years now, and participated in the groundbreaking 1978 ICA Summer Exhibition with the Lisson Street Gallery Conceptual Art Group. His work is in many private collections all over the world, including MCA Records in New York, and foundations in Paris, Beirut and Cyprus.
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolorem deserunt tempora doloribus non, voluptas
-dolor? Consequuntur et ad officiis iste, vero natus possimus labore veritatis a eius doloremque. Optio amet
-quis harum nulla vitae repellat officiis veniam accusamus error hic deleniti in, quas est illum cum natus
-neque possimus delectus dolore ipsam. Pariatur, ad molestias alias voluptas iusto quam debitis beatae sint
-similique velit, dicta eos dolorum cumque mollitia officia iure labore voluptatibus. Non at sequi, natus
-dolores, cum accusamus repudiandae hic blanditiis ipsum possimus qui assumenda quaerat optio ab molestias ipsa
-iste molestiae dignissimos. Reprehenderit quod totam nostrum nihil.
+**_Britart Gallery_**
+
+> **_Banking on People_** - A visual expression of the Standard Chartered culture. Investor Limited Edition 2010
+
+> **_Behind the Portrait_** - 2003 Article on portrait commissioning for Beach Magazines and Publishing - Junior Magazine 2004 -
+
+> **_Purchase with Passion_** Country Homes, IPC Magazines 2003
+
+### Creative Awards
+
+* Welcome Foundation
+* Best TVC
+* Best Radio Commercial
+* Best Campaign of the Year.1995 (all media)
+* Reckitt & Colman Airwick
+* Best TVC
+* Braun Silk Epil
+* Best TVC
+* AME (Advertising and Marketing Excellence Awards New York 1999)
+* De Beers Wedding Diamond Jewellery Best Campaign of the year 1999
+
+### Exhibitions
+
+* - ICA 78 Summer Exhibition with the Conceptual Art Group Gallery LissonStreet
+* - EKATE Annual shows 1988, Famagusta Gate, Nicosia Cyprus
+* - Laban Cultural Centre Beirut
+* - 2004 Royal Society of Portrait Painters
+* - 2003 The Mall Gallery London
+* - 2004 Prema Gallery Gloucestershire
+* - 2004 London Art Fair 2004 Design Centre, Islington, London
+* - 2004 Mixed show, The Gallery Cork St W1
+* - 2005 Sheridan Russell, Gallery
+* - 2005 Florence Fine Art, Gt. Russell St. London
+* - 2005 Sheridan Russell Gallery, Marylebone, London
+* - 2005 Artifex, The Plaza, Birmingham
+* - 2006 Grafton Gallery, London
+* - 2006 AFF Battersey London
+* - 2006 Red Gallery, Thame, Oxford
+* - 2006 Carby Gallery, Aberdeen
+* - 2007 Contemporary Fine Art Eton
+* - 2008 Flaubert Gallery Edinburgh
+* - 2009 Sheridan Russell, Gallery
+* - 2009 Colomb Gallery Marylebone London
+* - 2010 Kilani Limassol Cyprus
+* - 2010 Colomb Gallery Marylebone London
+
+### Collections
+
+* **Blue on Blue** Standard Chartered, London
+* **Einstein** Seymour Stein MCA Records New York
+* **Jukebox Girl** Tellalis Cyprus
+* **Natural Dimension** Avedessian Paris
+* **The studio** Khoury Beirut
+* **Contact** \[Scaled Energy\]([http://www.scaledenergy.co.uk/](http://www.scaledenergy.co.uk/ "http://www.scaledenergy.co.uk/")), Scotland.
