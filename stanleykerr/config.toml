@@ -7,7 +7,7 @@ title = "Stanley Kerr"
 [[menu.main]]
 URL = "https://stanleykerr.netlify.app/categories/portrait/"
 name = "Collections"
-url = "categories/collection"
+url = "categories/collection/"
 weight = 1
 [[menu.main]]
 URL = "about"
