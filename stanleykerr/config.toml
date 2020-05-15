@@ -24,7 +24,7 @@ home = "Home"
 layout = "1"
 logo = "images/logo-1.png"
 mobile = ""
-preloader = true
+preloader = false
 search = false
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
