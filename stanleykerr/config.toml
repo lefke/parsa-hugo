@@ -5,9 +5,9 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Stanley Kerr"
 [[menu.main]]
-name = "Portraits"
-url = "https://stanleykerr.netlify.app/categories/portrait/"
-weight = 1
+URL = "about"
+name = "About"
+weight = 2
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
@@ -28,7 +28,7 @@ preloader = false
 search = false
 [params.instafeed]
 access_token = "4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17"
-enable = true
+enable = false
 user_id = "4044026246"
 [[params.plugins.css]]
 link = "plugins/bootstrap/bootstrap.min.css"
