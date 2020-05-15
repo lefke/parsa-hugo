@@ -30,6 +30,10 @@ body {
   max-width: 20%;
 }
 
+li.nav-item {
+  font-size: 1.7rem;
+}
+
 .masonry-section {
   padding: 0 30px;
 }
@@ -461,6 +465,10 @@ textarea.form-control {
   .headroom {
     padding: 10px;
   }
+  
+  .navbar-brand {
+    max-width: 30%;
+  }
 }
 
 .headroom--unpinned {
@@ -470,6 +478,10 @@ textarea.form-control {
 @media (max-width: 991px) {
   .headroom--unpinned {
     top: 0;
+  }
+  
+  .navbar-brand {
+    max-width: 25%;
   }
 }
 
