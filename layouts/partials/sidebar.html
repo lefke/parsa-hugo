@@ -1,11 +1,11 @@
 <div class="col-lg-4">
-  <div class="widget search-box">
+  <!--div class="widget search-box">
     <form action="{{ .Site.BaseURL }}/search">
       <i class="ti-search"></i>
       <input class="form-control border-0 pl-5" type="search" placeholder="Search" id="search-query" name="s">
     </form>
-  </div>
-  <div class="widget">
+  </div-->
+  <!--div class="widget">
     <h6 class="mb-4">LATEST POST</h6>
     {{ range first 3 ( where .Site.Pages "Type" "post") }}
     <div class="media mb-4">
@@ -21,7 +21,7 @@
       </div>
     </div>
     {{ end }}
-  </div>
+  </div-->
   <div class="widget">
     <h6 class="mb-4">TAG</h6>
     {{- if isset .Site.Taxonomies "tags" }}
