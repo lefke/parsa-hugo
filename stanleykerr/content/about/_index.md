@@ -6,7 +6,7 @@ image: images/author.jpg
 menu:
   main:
     URL: about
-    weight: 2
+    weight: 1
 
 ---
 Creative UI/UX desingerr how loves to craft beautiful that satisfy users needs the product. A best idea

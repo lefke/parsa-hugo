@@ -5,6 +5,10 @@ summaryLength = "10"
 theme = "parsa-hugo"
 title = "Stanley Kerr"
 [[menu.main]]
+URL = "https://stanleykerr.netlify.app/categories/portrait/"
+name = "Portraits"
+weight = ""
+[[menu.main]]
 URL = "about"
 name = "About"
 weight = 2
