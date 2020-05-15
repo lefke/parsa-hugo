@@ -8,8 +8,6 @@ categories:
 - Portrait
 - Collection
 tags:
-- Philosophy
-- Photos
 
 ---
 ![](/images/ela16x16.jpg)

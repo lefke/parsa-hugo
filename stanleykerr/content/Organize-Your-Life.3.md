@@ -8,8 +8,6 @@ categories:
 - Collection
 - Portrait
 tags:
-- Photos
-- Article
 
 ---
 ![](/images/eleanor.jpg)

@@ -6,10 +6,7 @@ type: post
 image: "/images/cato.jpg"
 categories:
 - Portrait
-- Food
 tags:
-- Photos
-- Food
 
 ---
 ![](/images/daviescol-children14x14each.jpg)

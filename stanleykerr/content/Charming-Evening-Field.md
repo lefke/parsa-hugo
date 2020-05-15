@@ -7,8 +7,6 @@ image: "/images/audrey.jpg"
 categories:
 - Portrait
 tags:
-- Photos
-- Food
 
 ---
 ![](/images/daviescol-children14x14each.jpg)

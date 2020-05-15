@@ -6,6 +6,6 @@ type: post
 image: "/images/katerina1.jpg"
 categories:
 - Portrait
-tags: []
+tags:
 
 ---

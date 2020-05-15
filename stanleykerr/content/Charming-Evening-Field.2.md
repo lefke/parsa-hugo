@@ -6,9 +6,6 @@ type: post
 image: "/images/facemask.jpg"
 categories:
 - Portrait
-- Food
 tags:
-- Photos
-- Food
 
 ---

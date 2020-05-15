@@ -6,10 +6,7 @@ type: post
 image: "/images/eleanor.jpg"
 categories:
 - Portrait
-- Food
 tags:
-- Photos
-- Food
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
