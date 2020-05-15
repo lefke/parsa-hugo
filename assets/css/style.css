@@ -27,11 +27,11 @@ body {
 }
 
 .navbar-brand {
-  max-width: 20%;
+  max-width: 25%;
 }
 
 li.nav-item {
-  font-size: 1.7rem;
+  font-size: 1.4rem;
 }
 
 .masonry-section {
@@ -457,7 +457,7 @@ textarea.form-control {
   left: 0;
   right: 0;
   transition: all .4s ease-in-out;
-  padding: 10px 40px;
+  padding: 10px 10px;
   background-color: #fff;
 }
 
@@ -481,7 +481,7 @@ textarea.form-control {
   }
   
   .navbar-brand {
-    max-width: 25%;
+    max-width: 40%;
   }
 }
 
@@ -699,7 +699,7 @@ textarea.form-control {
 /* homepage 2 */
 .hero-section {
   padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #fdefe6 0);
+  background-image: linear-gradient(#fff 45%, #E4E2E4 0);
 }
 
 .dividers {
@@ -839,7 +839,7 @@ textarea.form-control {
 blockquote {
   font-style: italic;
   color: #000000;
-  background: #fdefe6;
+  background: #E4E2E4;
   padding: 20px;
   font-weight: 600;
 }
