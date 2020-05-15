@@ -30,6 +30,18 @@ body {
   max-width: 20%;
 }
 
+.masonry-section {
+  padding: 0 30px;
+}
+
+.masonry-section .card-img-overlay {
+  visibility: hidden;
+}
+
+.masonry-section .card-img-overlay:hover {
+  visibility: visible;
+}
+
 p, .paragraph {
   font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
   font-weight: 400;
