@@ -37,6 +37,13 @@ p, .paragraph {
   line-height: 1.5;
 }
 
+li {
+  font-family: neue-haas-grotesk-display,neue hass grotesk display,-apple-system,BlinkMacSystemFont,segoe ui,segoe ui symbol,segoe ui emoji,apple color emoji,Roboto,Helvetica,Arial,sans-serif;
+  font-weight: 400;
+  font-size: 15px;
+  line-height: 1.5;
+}
+
 h1, h2, h3, h4, h5, h6 {
   font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
   font-weight: 400;
