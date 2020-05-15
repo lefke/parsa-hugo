@@ -29,6 +29,7 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- stanleykerr/content/amber.md
 - stanleykerr/content/andrew.md
 - stanleykerr/content/cecilia.md
 - stanleykerr/content/chas.md
