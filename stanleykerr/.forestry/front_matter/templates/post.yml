@@ -18,6 +18,16 @@ fields:
 - type: list
   name: categories
   label: categories
+  config:
+    use_select: true
+    source:
+      type: simple
+    options:
+    - Portrait
+    - Collection
+    - Landscape
+    - Flowers
+    - Mathematical
 - name: tags
   type: tag_list
   default: []
