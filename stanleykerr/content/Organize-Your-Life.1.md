@@ -9,6 +9,10 @@ categories:
 tags:
 - Philosophy
 - Photos
+menu:
+  main:
+    name: Landscapes
+    weight: 1
 
 ---
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
