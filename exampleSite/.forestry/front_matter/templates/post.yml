@@ -8,6 +8,7 @@ fields:
 - type: datetime
   name: date
   label: date
+  hidden: true
 - type: file
   name: image
   label: image
@@ -21,6 +22,7 @@ fields:
   type: tag_list
   default: []
   label: tags
+  hidden: true
 - type: text
   name: type
   label: type
