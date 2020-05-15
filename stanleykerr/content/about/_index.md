@@ -36,28 +36,28 @@ Trained in Drawing and Painting at Maidstone College of Art, where he studied wi
 
 ### Exhibitions
 
-* - ICA 78 Summer Exhibition with the Conceptual Art Group Gallery LissonStreet
-* - EKATE Annual shows 1988, Famagusta Gate, Nicosia Cyprus
-* - Laban Cultural Centre Beirut
-* - 2004 Royal Society of Portrait Painters
-* - 2003 The Mall Gallery London
-* - 2004 Prema Gallery Gloucestershire
-* - 2004 London Art Fair 2004 Design Centre, Islington, London
-* - 2004 Mixed show, The Gallery Cork St W1
-* - 2005 Sheridan Russell, Gallery
-* - 2005 Florence Fine Art, Gt. Russell St. London
-* - 2005 Sheridan Russell Gallery, Marylebone, London
-* - 2005 Artifex, The Plaza, Birmingham
-* - 2006 Grafton Gallery, London
-* - 2006 AFF Battersey London
-* - 2006 Red Gallery, Thame, Oxford
-* - 2006 Carby Gallery, Aberdeen
-* - 2007 Contemporary Fine Art Eton
-* - 2008 Flaubert Gallery Edinburgh
-* - 2009 Sheridan Russell, Gallery
-* - 2009 Colomb Gallery Marylebone London
-* - 2010 Kilani Limassol Cyprus
-* - 2010 Colomb Gallery Marylebone London
+* ICA 78 Summer Exhibition with the Conceptual Art Group Gallery LissonStreet
+* EKATE Annual shows 1988, Famagusta Gate, Nicosia Cyprus
+* Laban Cultural Centre Beirut
+* 2004 Royal Society of Portrait Painters
+* 2003 The Mall Gallery London
+* 2004 Prema Gallery Gloucestershire
+* 2004 London Art Fair 2004 Design Centre, Islington, London
+* 2004 Mixed show, The Gallery Cork St W1
+* 2005 Sheridan Russell, Gallery
+* 2005 Florence Fine Art, Gt. Russell St. London
+* 2005 Sheridan Russell Gallery, Marylebone, London
+* 2005 Artifex, The Plaza, Birmingham
+* 2006 Grafton Gallery, London
+* 2006 AFF Battersey London
+* 2006 Red Gallery, Thame, Oxford
+* 2006 Carby Gallery, Aberdeen
+* 2007 Contemporary Fine Art Eton
+* 2008 Flaubert Gallery Edinburgh
+* 2009 Sheridan Russell, Gallery
+* 2009 Colomb Gallery Marylebone London
+* 2010 Kilani Limassol Cyprus
+* 2010 Colomb Gallery Marylebone London
 
 ### Collections
 
