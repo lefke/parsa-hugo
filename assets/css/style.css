@@ -38,11 +38,11 @@ li.nav-item {
   padding: 0 30px;
 }
 
-.masonry-section .card .card-img-overlay {
+.masonry-section .card .card-hover-overlay {
   visibility: hidden;
 }
 
-.masonry-section .card:hover .card-img-overlay {
+.masonry-section .card:hover .card-hover-overlay {
   visibility: visible;
 }
 
@@ -304,8 +304,8 @@ a.text-dark:hover {
 }
 
 .section {
-  padding-top: 90px;
-  padding-bottom: 90px;
+  padding-top: 70px;
+  padding-bottom: 30px;
 }
 
 .section-sm {
