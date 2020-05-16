@@ -46,26 +46,26 @@ li.nav-item {
   padding: 0 30px;
 }
 
-.masonry-section .card .card-hover-overlay,
-.masonry-section .card .card-content  {
+.card .card-hover-overlay,
+.card .card-content  {
   visibility: hidden;
   opacity: 0;
   -webkit-transition: all .2s ease-in-out;
--moz-transition: all .2s ease-in-out;
--ms-transition: all .2s ease-in-out;
--o-transition: all .2s ease-in-out;
-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
 }
 
-.masonry-section .card:hover .card-hover-overlay,
-.masonry-section .card:hover .card-content {
+.card:hover .card-hover-overlay,
+.card:hover .card-content {
   visibility: visible;
   opacity: 1;
   -webkit-transition: all .2s ease-in-out;
--moz-transition: all .2s ease-in-out;
--ms-transition: all .2s ease-in-out;
--o-transition: all .2s ease-in-out;
-transition: all .2s ease-in-out;
+  -moz-transition: all .2s ease-in-out;
+  -ms-transition: all .2s ease-in-out;
+  -o-transition: all .2s ease-in-out;
+  transition: all .2s ease-in-out;
 }
 
 p, .paragraph {
