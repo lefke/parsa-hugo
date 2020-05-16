@@ -5,7 +5,7 @@ summaryLength = "40"
 theme = "parsa-hugo"
 title = "Stanley Kerr"
 [[menu.main]]
-URL = "https://stanleykerr.netlify.app/categories/collections/"
+URL = "categories/collections/"
 name = "Collections"
 url = "categories/collections/"
 weight = 1
