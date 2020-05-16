@@ -99,12 +99,12 @@
         <article class="card bg-dark text-center text-white border-0 rounded-0">
           <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
           <div class="card-img-overlay card-hover-overlay">
-            <div class="card-content">
-              <!--p class="text-uppercase">{{.Params.Categories}}</p-->
-              <h4 class="card-title mb-4"><a class="text-white" href="{{.Permalink}}">{{.Title}}</a></h4>
-              <!--a class="btn btn-outline-light" href="{{.Permalink}}">read more</a-->
-            </div>
           </div>
+          <a class="card-content" href="{{.Permalink}}">
+            <!--p class="text-uppercase">{{.Params.Categories}}</p-->
+            <h4 class="card-title mb-4">{{.Title}}</h4>
+            <!--a class="btn btn-outline-light" href="{{.Permalink}}">read more</a-->
+          </a>
         </article>
       </div>
       {{ end }}
