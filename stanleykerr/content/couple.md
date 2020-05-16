@@ -5,9 +5,8 @@ description: Couple
 type: post
 image: "/images/te2final.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
-- Portrait
-- Couple
+- Couple's Portraits
 
 ---

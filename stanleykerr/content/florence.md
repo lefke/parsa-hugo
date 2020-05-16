@@ -5,9 +5,9 @@ description: Amelie
 type: post
 image: "/images/florence-final.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
-- children's portrait
+- children's portraits
 
 ---
 Florence

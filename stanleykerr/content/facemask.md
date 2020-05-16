@@ -5,7 +5,7 @@ description: Facemask
 type: post
 image: "/images/facemask.jpg"
 categories:
-- Portrait
+- Portraits
 tags: 
 
 ---

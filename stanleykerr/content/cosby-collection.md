@@ -5,8 +5,8 @@ description: Cosby Collection
 type: post
 image: "/images/cosbyall4.jpg"
 categories:
-- Portrait
-- Collection
+- Portraits
+- Collections
 tags:
 
 ---

@@ -5,7 +5,7 @@ description: Ilyanna Euphemia
 type: post
 image: "/images/ilyanna-euphemia.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

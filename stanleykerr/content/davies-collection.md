@@ -5,8 +5,8 @@ description: Davies Children Collection
 type: post
 image: "/images/daviescol-children14x14each.jpg"
 categories:
-- Collection
-- Portrait
+- Collections
+- Portraits
 tags:
 
 ---

@@ -1,5 +1,5 @@
 +++
-categories = ["Portrait"]
+categories = ["Portraits"]
 date = ""
 description = "Andrew"
 image = "/images/andrew.jpg"

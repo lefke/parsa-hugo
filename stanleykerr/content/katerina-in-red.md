@@ -5,7 +5,7 @@ description: This is meta description
 type: post
 image: "/images/katerina-in-red-straighthair.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

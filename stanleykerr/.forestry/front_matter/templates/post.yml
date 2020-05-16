@@ -22,10 +22,11 @@ fields:
     use_select: true
     source:
       type: simple
+      default: Portraits
     options:
-    - Portrait
-    - Collection
-    - Landscape
+    - Portraits
+    - Collections
+    - Landscapes
     - Flowers
     - Mathematical
 - name: tags

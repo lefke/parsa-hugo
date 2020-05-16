@@ -5,7 +5,7 @@ description: Wim
 type: post
 image: "/images/wim22x28.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

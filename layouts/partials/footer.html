@@ -3,7 +3,8 @@
     <div class="container-fluid">
       <div class="row">
         <div class="col-md-6 col-sm-6 mb-4 mb-md-0">
-          <a href="{{.Site.BaseURL}}"><img src="{{.Site.Params.logo | absURL }}" alt="{{.Site.Title}}" class="img-fluid footer-brand"></a>
+          <p class="mb-0">{{ .Site.Params.copyright | markdownify }}</p>
+          <!--a href="{{.Site.BaseURL}}"><img src="{{.Site.Params.logo | absURL }}" alt="{{.Site.Title}}" class="img-fluid footer-brand"></a-->
         </div>
         <!--div class="col-md-3 col-sm-6 mb-4 mb-md-0">
           <h6>Address</h6>
@@ -11,16 +12,16 @@
             <li class="font-secondary text-dark">{{.Site.Params.address | markdownify }}</li>
           </ul>
         </div-->
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Contact Info</h6>
+        <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+          <!--h6>Contact Info</h6>
           <ul class="list-unstyled">
             <!--li class="font-secondary text-dark">Tel : {{ .Site.Params.mobile | markdownify }}</li-->
-            <li class="font-secondary text-dark">Email : {{ .Site.Params.email | markdownify }}</li>
-          </ul>
+          <!--/ul-->
         </div>
-        <div class="col-md-3 col-sm-6 mb-4 mb-md-0">
-          <h6>Follow</h6>
-          <ul class="list-inline d-inline-block">
+        <div class="col-md-1 col-sm-6 mb-4 mb-md-0">
+          <!--h6>Follow</h6-->
+          <ul class="list-inline d-inline-block text-right">
+            <li class="font-secondary text-dark"><a href="mailto:{{ .Site.Params.email }}" class="text-dark">{{ .Site.Params.email }}</a></li>
             {{ range .Site.Params.social }}
             <li class="list-inline-item"><a href="{{ .URL }}" class="text-dark"><i class="{{ .icon }}"></i></a></li>
             {{ end }}
@@ -30,7 +31,6 @@
     </div>
   </div>
   <div class="text-center pb-3">
-    <p class="mb-0">{{ .Site.Params.copyright | markdownify }}</p>
   </div>
 </footer>
 

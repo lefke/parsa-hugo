@@ -5,7 +5,7 @@ description: Zoe
 type: post
 image: "/images/zoe16x16.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

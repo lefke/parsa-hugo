@@ -1,13 +1,13 @@
 baseURL = "https://stanleykerr.netlify.app"
 languageCode = "en-us"
 paginate = "12"
-summaryLength = "10"
+summaryLength = "40"
 theme = "parsa-hugo"
 title = "Stanley Kerr"
 [[menu.main]]
-URL = "https://stanleykerr.netlify.app/categories/portrait/"
+URL = "https://stanleykerr.netlify.app/categories/collections/"
 name = "Collections"
-url = "categories/collection/"
+url = "categories/collections/"
 weight = 1
 [[menu.main]]
 URL = "about"

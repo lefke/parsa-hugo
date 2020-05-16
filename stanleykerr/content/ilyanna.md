@@ -5,7 +5,7 @@ description: Ilyanna
 type: post
 image: "/images/ilyanna1.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

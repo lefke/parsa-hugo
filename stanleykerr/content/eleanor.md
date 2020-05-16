@@ -5,7 +5,7 @@ description: Eleanor
 type: post
 image: "/images/eleanor.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

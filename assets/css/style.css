@@ -34,6 +34,10 @@ img.footer-brand {
   max-width: 200px;
 }
 
+footer [class*=" ti-"], [class^=ti-] {
+  font-size: 1.4rem;
+}
+
 li.nav-item {
   font-size: 1.4rem;
 }
@@ -114,7 +118,7 @@ h6, .h6 {
   text-transform: capitalize;
   padding: 8px 20px;
   border-radius: 0;
-  font-weight: 600;
+  font-weight: 500;
   border: 1px solid;
   position: relative;
   z-index: 1;
@@ -131,17 +135,17 @@ h6, .h6 {
 }
 
 .btn-primary {
-  background: #ff6f00;
+  background: #D7772C;
   color: #fff;
   border: 0;
 }
 
 .btn-primary:active {
-  background: #C77739 !important;
+  background: #D7772C !important;
 }
 
 .btn-primary:hover {
-  background: #C77739;
+  background: #D7772C;
 }
 
 .btn-outline-light {
@@ -162,7 +166,7 @@ h6, .h6 {
 }
 
 .btn-transparent {
-  color: #ff6f00;
+  color: #D7772C;
   border: 0;
 }
 
@@ -172,12 +176,12 @@ body {
 }
 
 ::-moz-selection {
-  background: #C77739;
+  background: #D7772C;
   color: #fff;
 }
 
 ::selection {
-  background: #C77739;
+  background: #D7772C;
   color: #fff;
 }
 
@@ -211,7 +215,7 @@ body {
   height: 16px;
   top: 12px;
   left: 15px;
-  background: #ff6f00;
+  background: #D7772C;
   border-radius: 50%;
   -webkit-transform: translateX(0);
           transform: translateX(0);
@@ -234,7 +238,7 @@ body {
   width: 16px;
   height: 16px;
   margin-left: 16px;
-  background: #ff6f00;
+  background: #D7772C;
   border-radius: 50%;
 }
 
@@ -297,10 +301,10 @@ select:focus {
 }
 
 a:hover {
-  color: #ff6f00;
+  color: #D7772C;
 }
 a.text-dark:hover {
-  color: #ff6f00 !important;
+  color: #D7772C !important;
 }
 
 .slick-slide {
@@ -443,7 +447,7 @@ a.text-dark:hover {
 .form-control:focus {
   outline: 0;
   box-shadow: none;
-  border-color: #ff6f00;
+  border-color: #D7772C;
 }
 
 textarea.form-control {
@@ -550,7 +554,7 @@ textarea.form-control {
 
 .navbar .dropdown-item:active {
   color: #fff;
-  background-color: #ff6f00;
+  background-color: #D7772C;
 }
 
 .search-icon {
@@ -627,8 +631,9 @@ textarea.form-control {
 .pagination .page-item .page-link {
   font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
   border: 0;
-  font-size: 30px;
-  color: #59565E;
+  font-size: 16px;
+  color: #D7772C;
+  text-decoration: underline;
 }
 
 @media (max-width: 767px) {
@@ -638,17 +643,17 @@ textarea.form-control {
 }
 
 .pagination .page-item .page-link:hover {
-  color: #000000;
+  color: #D7772C;
   background-color: transparent;
 }
 
 .pagination .page-item:first-child .page-link, .pagination .page-item:last-child .page-link {
-  font-size: 16px;
 }
 
 .pagination .page-item.active .page-link {
-  color: #000000;
-  text-decoration: underline;
+  text-decoration: none;
+  font-size: 30px;
+  color: #59565E;
   background: transparent;
 }
 
@@ -687,7 +692,7 @@ textarea.form-control {
 }
 
 .instagram-post ul a:hover {
-  color: #ff6f00 !important;
+  color: #D7772C !important;
 }
 
 .instagram-post:hover::before {
@@ -702,8 +707,8 @@ textarea.form-control {
 
 /* homepage 2 */
 .hero-section {
-  padding: 70px 0 0;
-  background-image: linear-gradient(#fff 45%, #E4E2E4 0);
+  padding: 70px 30px 0;
+  background-image: linear-gradient(#fff 22%, #E4E2E4 0);
 }
 
 .dividers {
@@ -750,7 +755,7 @@ textarea.form-control {
 }
 
 .article-full-width .post-image img {
-  height: 400px;
+  height: 550px;
   width: auto;
 }
 
@@ -878,8 +883,8 @@ blockquote {
 }
 
 .post-thumb-sm {
-  max-width: 75px;
-  max-height: 75px;
+  max-width: 200px;
+  max-height: 200px;
   overflow: hidden;
 }
 
@@ -891,7 +896,7 @@ blockquote {
 }
 
 .tag-list li a:hover {
-  color: #ff6f00;
+  color: #D7772C;
 }
 
 /*# sourceMappingURL=maps/style.css.map */

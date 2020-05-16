@@ -5,7 +5,7 @@ description: Audrey
 type: post
 image: "/images/audrey.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

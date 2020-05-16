@@ -5,7 +5,7 @@ description: Ian
 type: post
 image: "/images/ian.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

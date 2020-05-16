@@ -5,7 +5,7 @@ description: Katerina
 type: post
 image: "/images/katerina1.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---

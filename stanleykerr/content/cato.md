@@ -5,7 +5,7 @@ description: Cato
 type: post
 image: "/images/cato.jpg"
 categories:
-- Portrait
+- Portraits
 tags:
 
 ---
