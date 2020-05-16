@@ -327,7 +327,7 @@ a.text-dark:hover {
 }
 
 .section {
-  padding-top: 70px;
+  padding-top: 40px;
   padding-bottom: 30px;
 }
 
@@ -916,9 +916,11 @@ blockquote p {
 }
 
 .post-thumb-sm {
-  max-width: 200px;
+  max-width: 100px;
   /*max-height: 200px;*/
   overflow: hidden;
+  display: inline-block;
+  padding-bottom: 2px;
 }
 
 .tag-list li a {

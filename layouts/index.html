@@ -5,7 +5,7 @@
 <section class="section masonry-section" style="padding: 70px 45px 30px;">  
   <div class="row">
     {{ range $i,$p := (where .Pages "Type" "featured") }}
-    <div class="col-12">
+    <div class="col-lg-8">
       <article data-file="{{.Permalink}}" data-target="article"
         class="article-full-width {{if not (modBool $i 2)}} article-right {{ end }}">
         <div class="post-image">
@@ -84,6 +84,11 @@
 <!-- blog post -->
 <section class="section masonry-section">
   <div class="container-fluid">
+    <div class="row" style="padding: 0px 25px 30px;">
+      <div class="col-lg-12 p-sm-0">
+        <h2>All paintings</h2>
+      </div>
+    </div>
     {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
     {{ if eq .Site.Params.layout "1" }}
     <div class="row masonry-container">
