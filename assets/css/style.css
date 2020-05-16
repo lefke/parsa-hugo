@@ -30,6 +30,10 @@ body {
   max-width: 25%;
 }
 
+img.footer-brand {
+  max-width: 200px;
+}
+
 li.nav-item {
   font-size: 1.4rem;
 }
