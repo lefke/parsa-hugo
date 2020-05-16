@@ -6,7 +6,7 @@ theme = "parsa-hugo"
 title = "Stanley Kerr"
 [[menu.main]]
 URL = "categories/collections/"
-name = "Collections"
+name = "Groups"
 url = "categories/collections/"
 weight = 1
 [[menu.main]]
