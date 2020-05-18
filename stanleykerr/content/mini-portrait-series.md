@@ -9,6 +9,10 @@ categories:
 tags:
 - miniature portraits
 - children's portraits
+menu:
+  main:
+    name: Commission a portrait
+    weight: 1
 
 ---
 Commission a miniature birthday portrait as a gift every year and create an unforgettable record of your child’s-grandchilds development.

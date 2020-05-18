@@ -5,14 +5,29 @@ summaryLength = "40"
 theme = "parsa-hugo"
 title = "Stanley Kerr"
 [[menu.main]]
-URL = "categories/collections/"
-name = "Groups"
-url = "categories/collections/"
+name = "Abstracts"
+parent = "Paintings"
+url = "categories/abstracts/"
+weight = 3
+[[menu.main]]
+name = "Landscapes"
+parent = "Paintings"
+url = "categories/landscapes/"
+weight = 2
+[[menu.main]]
+name = "Portraits"
+parent = "Paintings"
+url = "categories/portraits"
 weight = 1
+[[menu.main]]
+URL = "categories/collections/"
+name = "Paintings"
+url = "paintings/"
+weight = 2
 [[menu.main]]
 URL = "about"
 name = "About"
-weight = 2
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [params]
