@@ -23,12 +23,11 @@ fields:
     source:
       type: simple
       default: Portraits
+      section: portraits
     options:
     - Portraits
-    - Collections
     - Landscapes
-    - Flowers
-    - Mathematical
+    - Abstract
 - name: tags
   type: tag_list
   default: []
@@ -39,11 +38,3 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
-pages:
-- stanleykerr/content/amber.md
-- stanleykerr/content/andrew.md
-- stanleykerr/content/cecilia.md
-- stanleykerr/content/chas.md
-- stanleykerr/content/josh.md
-- stanleykerr/content/natasha.md
-- stanleykerr/content/pippa.md
