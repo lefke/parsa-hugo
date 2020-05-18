@@ -373,7 +373,7 @@ a.text-dark:hover {
   width: 100%;
   top: 0;
   left: 0;
-  background: #323033;
+  background: #59565E;
   opacity: .5;
 }
 
@@ -589,7 +589,7 @@ textarea.form-control {
 .card-img-overlay::before {
   position: absolute;
   content: "";
-  background: linear-gradient(transparent 40%, rgba(0, 0, 0, 0.5));
+  background: linear-gradient(transparent 40%, rgba(89, 86, 94, 0.5));
   height: 100%;
   width: 100%;
   top: 0;
