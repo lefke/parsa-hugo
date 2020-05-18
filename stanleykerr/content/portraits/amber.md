@@ -5,6 +5,6 @@ description = "Amber"
 image = "/images/amber.jpg"
 tags = []
 title = "Amber"
-type = "post"
+type = "featured"
 
 +++
