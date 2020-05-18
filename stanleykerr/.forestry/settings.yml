@@ -13,24 +13,21 @@ sections:
   - post
 - type: directory
   path: stanleykerr/paintings/portraits
-  label: Post
-  categories: Portraits
+  label: Portraits
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
   path: stanleykerr/paintings/landscapes
-  label: Post
-  categories: landscapes
+  label: Landscapes
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
   path: stanleykerr/paintings/abstracts
-  label: Post
-  categories: abstracts
+  label: Abstracts
   create: documents
   match: "*"
   templates:
