@@ -18,21 +18,22 @@
 
   $('.featured-post-slider').slick({
     dots: false,
-    speed: 300,
+    speed: 6000,
     autoplay: true,
     arrows: false,
-    slidesToShow: 4,
+    slidesToShow: 1,
+    fade: true,
     slidesToScroll: 1,
     responsive: [{
         breakpoint: 1024,
         settings: {
-          slidesToShow: 2
+          slidesToShow: 1
         }
       },
       {
         breakpoint: 600,
         settings: {
-          slidesToShow: 2
+          slidesToShow: 1
         }
       },
       {

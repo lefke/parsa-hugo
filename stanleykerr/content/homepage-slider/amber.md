@@ -2,9 +2,9 @@
 categories = ["Portraits"]
 date = ""
 description = "Amber"
-image = "/images/amber.jpg"
+image = "/images/amber-slider.jpg"
 tags = []
 title = "Amber"
-type = "post"
+type = "slider"
 
 +++
