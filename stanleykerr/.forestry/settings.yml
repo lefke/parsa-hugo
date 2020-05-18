@@ -12,21 +12,21 @@ sections:
   templates:
   - post
 - type: directory
-  path: stanleykerr/paintings/portraits
+  path: stanleykerr/content/paintings/portraits
   label: Portraits
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
-  path: stanleykerr/paintings/landscapes
+  path: stanleykerr/content/paintings/landscapes
   label: Landscapes
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
-  path: stanleykerr/paintings/abstracts
+  path: stanleykerr/content/paintings/abstracts
   label: Abstracts
   create: documents
   match: "*"
