@@ -89,7 +89,7 @@
         <h2>All paintings</h2>
       </div>
     </div>
-    {{ $paginator := .Paginate (where .Site.RegularPages "Type" "post") }}
+    {{ $paginator := .Paginate (where .Site.RegularPages "Categories" "Portraits") }}
     {{ if eq .Site.Params.layout "1" }}
     <div class="row masonry-container">
       {{ range $paginator.Pages }}
