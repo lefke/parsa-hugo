@@ -84,15 +84,11 @@
 <!-- blog post -->
 <section class="section masonry-section">
   <div class="container-fluid">
-    <div class="row" style="padding: 0px 25px 30px;">
-      <div class="col-lg-12 p-sm-0">
-        <h2>All paintings</h2>
-      </div>
-    </div>
-    {{ $paginator := .Paginate (where .Site.RegularPages "Categories" "Portraits") }}
+
+    {{ $paginator := .Paginate (where .Site.Pages "Section" "portraits") }}
     {{ if eq .Site.Params.layout "1" }}
     <div class="row masonry-container">
-      {{ range $paginator.Pages }}
+      {{ range $paginator.Pages.ByWeight }}
       <div class="col-lg-6 col-sm-6 mb-5">
         <!--article class="text-center">
           <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
@@ -106,7 +102,7 @@
           <div class="card-img-overlay card-hover-overlay">
           </div>
           <a class="card-content" href="{{.Permalink}}">
-            <!--p class="text-uppercase">{{.Params.Categories}}</p-->
+            <p class="text-uppercase">{{.Params.Categories}}</p>
             <h4 class="card-title mb-4">{{.Title}}</h4>
             <!--a class="btn btn-outline-light" href="{{.Permalink}}">read more</a-->
           </a>

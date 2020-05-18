@@ -7,17 +7,17 @@ title = "Stanley Kerr"
 [[menu.main]]
 name = "Abstracts"
 parent = "Paintings"
-url = "categories/abstracts/"
+url = "abstracts/"
 weight = 3
 [[menu.main]]
 name = "Landscapes"
 parent = "Paintings"
-url = "categories/landscapes/"
+url = "landscapes/"
 weight = 2
 [[menu.main]]
 name = "Portraits"
 parent = "Paintings"
-url = "categories/portraits"
+url = "portraits/"
 weight = 1
 [[menu.main]]
 URL = "categories/collections/"

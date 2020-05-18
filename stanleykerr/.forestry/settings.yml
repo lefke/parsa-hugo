@@ -1,7 +1,7 @@
 ---
 new_page_extension: md
 auto_deploy: false
-admin_path: "/admin"
+admin_path: "stanleykerr/admin"
 webhook_url: 
 sections:
 - type: directory
@@ -12,21 +12,21 @@ sections:
   templates:
   - post
 - type: directory
-  path: stanleykerr/content/paintings/portraits
+  path: stanleykerr/content/portraits
   label: Portraits
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
-  path: stanleykerr/content/paintings/landscapes
+  path: stanleykerr/content/landscapes
   label: Landscapes
   create: documents
   match: "*"
   templates:
   - post
 - type: directory
-  path: stanleykerr/content/paintings/abstracts
+  path: stanleykerr/content/abstracts
   label: Abstracts
   create: documents
   match: "*"
