@@ -664,19 +664,6 @@ textarea.form-control {
   background: #ababab;
 }
 
-@media (max-width: 575px) {
-  .pagination {
-    overflow: auto;
-    white-space: nowrap;
-  }
-  .pagination::-webkit-scrollbar {
-    width: 0px;
-    background: transparent;
-  }
-  .navbar-caption h4 {
-    font-size: 18px;
-  }
-}
 
 .pagination .page-item .page-link {
   font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
@@ -692,6 +679,19 @@ textarea.form-control {
   }
   .navbar-caption h4 {
     font-size: 22px;
+  }
+}
+@media (max-width: 575px) {
+  .pagination {
+    overflow: auto;
+    white-space: nowrap;
+  }
+  .pagination::-webkit-scrollbar {
+    width: 0px;
+    background: transparent;
+  }
+  .navbar-caption h4 {
+    font-size: 16px !important;
   }
 }
 
