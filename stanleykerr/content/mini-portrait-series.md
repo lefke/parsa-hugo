@@ -1,5 +1,5 @@
 ---
-title: Commission a miniature
+title: Commission a portrait
 date: 2020-05-14T23:00:00.000+00:00
 description: Miniature portrait commissions
 type: featured
@@ -11,7 +11,6 @@ tags:
 - children's portraits
 menu:
   main:
-    name: Commission a portrait
     weight: 1
 
 ---
