@@ -25,9 +25,23 @@ body {
   color: #59565E; 
   letter-spacing: +.05rem;
 }
-
 .navbar-brand {
   max-width: 25%;
+  display: block;
+}
+.navbar-caption {
+  padding: 0 1.7rem;
+}
+.navbar-caption h4 {
+  font-weight: 500;
+  color: rgba(89, 86, 94, 0.6);
+}
+.navbar-light .navbar-nav .nav-link {
+  color: rgba(89, 86, 94, 1);
+  font-weight: 500;
+}
+.navbar-light .navbar-nav .nav-link:hover {
+  color: #D7772C;
 }
 
 img.footer-brand {
@@ -499,12 +513,12 @@ textarea.form-control {
 }
 
 .headroom--unpinned {
-  top: -150px;
+  top: -200px;
 }
 
 @media (max-width: 991px) {
   .headroom--unpinned {
-    top: 0;
+    top: -200px;
   }
   
   .navbar-brand {
@@ -659,6 +673,9 @@ textarea.form-control {
     width: 0px;
     background: transparent;
   }
+  .navbar-caption h4 {
+    font-size: 18px;
+  }
 }
 
 .pagination .page-item .page-link {
@@ -672,6 +689,9 @@ textarea.form-control {
 @media (max-width: 767px) {
   .pagination .page-item .page-link {
     font-size: 16px;
+  }
+  .navbar-caption h4 {
+    font-size: 22px;
   }
 }
 
@@ -880,14 +900,19 @@ textarea.form-control {
 
 blockquote {
   font-style: italic;
-  color: #323033;
-  background: #E4E2E4;
-  padding: 20px;
-  font-weight: 600;
+  color: ;
+  background: none;
+  color: rgba(89, 86, 94, 0.6);
+  border-left-width: 4px;
+  border-left: 4px solid rgba(89, 86, 94, 0.6);
+  padding: 0px 0 0px 40px;
+  margin: 40px 0 40px 40px;
 }
 
 blockquote p {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
+  line-height: 2.2rem;
+  font-weight: 600;
 }
 
 .content * {

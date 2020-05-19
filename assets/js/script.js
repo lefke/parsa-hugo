@@ -39,7 +39,8 @@
       {
         breakpoint: 480,
         settings: {
-          slidesToShow: 1
+          unslick: true,
+          slidesToShow: 0
         }
       }
     ]
