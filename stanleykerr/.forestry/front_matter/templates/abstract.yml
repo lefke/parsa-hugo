@@ -1,5 +1,5 @@
 ---
-label: Landscape
+label: Abstract
 hide_body: false
 fields:
 - type: text
@@ -22,8 +22,8 @@ fields:
     use_select: true
     source:
       type: simple
-      default: Landscapes
-      section: landscapes
+      default: Abstracts
+      section: abstracts
     options:
     - Portraits
     - Landscapes

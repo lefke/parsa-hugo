@@ -1,5 +1,5 @@
 ---
-label: Portrait
+label: Post
 hide_body: false
 fields:
 - type: text
@@ -15,11 +15,6 @@ fields:
 - type: text
   name: description
   label: description
-- name: show_on_home_page
-  type: boolean
-  label: Show on home page
-  description: Show this portrait on the home page
-  default: true
 - type: list
   name: categories
   label: categories
@@ -27,7 +22,6 @@ fields:
     use_select: true
     source:
       type: simple
-      default: Portraits
       section: portraits
     options:
     - Portraits
