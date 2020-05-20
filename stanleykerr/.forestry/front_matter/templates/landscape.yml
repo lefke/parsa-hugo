@@ -2,24 +2,26 @@
 label: Landscape
 hide_body: true
 fields:
-- type: list
-  name: categories
-  label: categories
-- type: text
-  name: date
-  label: date
-- type: text
-  name: description
-  label: description
-- type: file
-  name: image
-  label: image
-- type: list
-  name: tags
-  label: tags
 - type: text
   name: title
   label: title
+- type: text
+  name: date
+  label: date
+- type: file
+  name: image
+  label: image
+- type: text
+  name: description
+  label: description
+- type: list
+  name: tags
+  label: tags
+  hidden: true
+- type: list
+  name: categories
+  label: categories
+  hidden: true
 - type: text
   name: type
   label: type
