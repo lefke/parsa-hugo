@@ -2,7 +2,7 @@
 categories = ["Portraits"]
 date = ""
 description = "Andrew"
-image = "/images/andrew-slider.jpg"
+image = "/images/slider-andrew.jpg"
 tags = []
 title = "Andrew"
 type = "slider"

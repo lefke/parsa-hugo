@@ -1,9 +1,9 @@
 ---
-title: Amilie
+title: Jonas
 date: 2020-05-14T23:00:00.000+00:00
-description: Amilie
-type: slider
-image: "/images/slider-amelie-final18x18in.jpg"
+description: Jonas
+type: post
+image: "/images/portrait-jonas.jpg"
 categories:
 - Portraits
 - Commissions
@@ -12,3 +12,7 @@ tags:
 - children's portraits
 
 ---
+
+Detail
+
+![](/images/portrait-jonas-detail.jpg)

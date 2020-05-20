@@ -343,6 +343,9 @@ a.text-dark:hover {
 .slick-slide {
   outline: 0;
 }
+.row.featured-post-slider {
+  margin: 0;
+}
 
 .section {
   padding-top: 40px;
