@@ -17,21 +17,21 @@ sections:
   create: documents
   match: "*"
   templates:
-  - post
+  - portrait
 - type: directory
   path: stanleykerr/content/landscapes
   label: Landscapes
   create: documents
   match: "*"
   templates:
-  - post
+  - landscape
 - type: directory
   path: stanleykerr/content/abstracts
   label: Abstracts
   create: documents
   match: "*"
   templates:
-  - post
+  - abstract
 - type: directory
   path: stanleykerr/content/about
   label: About
