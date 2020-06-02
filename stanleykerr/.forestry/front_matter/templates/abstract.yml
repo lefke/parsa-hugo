@@ -44,6 +44,7 @@ fields:
   label: type
   default: post
   description: 'type: post or featured'
+  hidden: true
 - name: display_order
   type: number
   description: lowest first i.e. -99 would display before -90
