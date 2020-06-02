@@ -45,9 +45,9 @@ fields:
   default: post
   description: 'type: post or featured'
   hidden: true
-- name: display_order
+- name: weight
   type: number
-  description: lowest first i.e. -99 would display before -90
+  description: (0 to -99) lowest first i.e. -99 would display before -90
   default: -99
   required: true
   config:

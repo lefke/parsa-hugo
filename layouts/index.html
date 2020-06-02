@@ -27,7 +27,7 @@
   <div class="container-fluid">
 
     <div class="row masonry-container">
-      {{ range where (where site.RegularPages "Section" "in" site.Params.mainSections) ".Params.show_on_home_page" true }}
+      {{ range where (where site.RegularPages.ByWeight "Section" "in" site.Params.mainSections) ".Params.show_on_home_page" true }}
       <div class="col-lg-4 col-md-4 col-sm-6 mb-5">
         <!--article class="text-center">
           <img class="img-fluid mb-4" src="{{.Params.Image | absURL }}" alt="post-thumb">
