@@ -6,7 +6,6 @@ type: post
 image: "/images/portrait-honore.jpg"
 categories:
 - Portraits
-- Commissions
 tags:
 - children's portraits
 

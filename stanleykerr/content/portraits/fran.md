@@ -6,7 +6,6 @@ type: post
 image: "/images/portrait-fran-in-pink.jpg"
 categories:
 - Portraits
-- Commissions
 tags:
 - children's portraits
 

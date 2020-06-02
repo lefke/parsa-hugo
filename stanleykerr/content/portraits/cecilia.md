@@ -6,5 +6,6 @@ image = "/images/cecillia-final.jpg"
 tags = []
 title = "Cecilia"
 type = "post"
+show_on_home_page = true
 
 +++

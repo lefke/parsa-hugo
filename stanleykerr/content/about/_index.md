@@ -51,4 +51,4 @@ Trained in Drawing and Painting at Maidstone College of Art, where he studied wi
 * **Jukebox Girl** Tellalis Cyprus
 * **Natural Dimension** Avedessian Paris
 * **The studio** Khoury Beirut
-* **Contact** \[Scaled Energy\]([http://www.scaledenergy.co.uk/](http://www.scaledenergy.co.uk/ "http://www.scaledenergy.co.uk/")), Scotland.
+* **Contact** [Scaled Energy]([http://www.scaledenergy.co.uk/](http://www.scaledenergy.co.uk/ "http://www.scaledenergy.co.uk/"), Scotland.

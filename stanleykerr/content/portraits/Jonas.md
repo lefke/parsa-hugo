@@ -6,7 +6,6 @@ type: post
 image: "/images/portrait-jonas.jpg"
 categories:
 - Portraits
-- Commissions
 tags:
 - miniature portraits
 - children's portraits

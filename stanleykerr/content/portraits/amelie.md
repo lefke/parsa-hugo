@@ -6,7 +6,6 @@ type: post
 image: "/images/amelie-final18x18in.jpg"
 categories:
 - Portraits
-- Commissions
 tags:
 - miniature portraits
 - children's portraits

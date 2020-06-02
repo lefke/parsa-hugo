@@ -18,7 +18,7 @@ fields:
 - name: show_on_home_page
   type: boolean
   label: Show on home page
-  description: Show this portrait on the home page
+  description: Show this on the home page
   default: true
 - type: list
   name: categories

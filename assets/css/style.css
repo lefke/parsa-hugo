@@ -21,9 +21,8 @@ body {
   font-size: 1.7em; /* currently ems cause chrome bug misinterpreting rems on body element */
   line-height: 1.6;
   font-weight: 400;
-  font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
-  color: #59565E; 
-  letter-spacing: +.05rem;
+  font-family: neue-haas-grotesk-text, "Neue Hass Grotesk Text", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
+  color: #59565E;
 }
 .navbar-brand {
   max-width: 25%;
@@ -31,14 +30,15 @@ body {
 }
 .navbar-caption {
   padding: 0 1.7rem;
+  margin: 0;
 }
 .navbar-caption h4 {
-  font-weight: 500;
+  font-weight: 400;
   color: rgba(89, 86, 94, 0.6);
 }
 .navbar-light .navbar-nav .nav-link {
   color: rgba(89, 86, 94, 1);
-  font-weight: 500;
+  font-weight: 400;
 }
 .navbar-light .navbar-nav .nav-link:hover {
   color: #D7772C;
@@ -50,6 +50,11 @@ img.footer-brand {
 
 footer [class*=" ti-"], [class^=ti-] {
   font-size: 1.4rem;
+}
+
+footer li, footer a, footer p {
+  font-size: 1rem;
+  padding: 0 !important;
 }
 
 li.nav-item {
@@ -87,28 +92,51 @@ article.content h4:first-of-type {
 }
 
 p, .paragraph {
-  font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
+  font-family: neue-haas-grotesk-text, "Neue Hass Grotesk Text", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
   font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 1.1rem;
+  padding-left: 20px;
+  padding-right: 20px;
 }
 
-li {
-  font-family: neue-haas-grotesk-display,neue hass grotesk display,-apple-system,BlinkMacSystemFont,segoe ui,segoe ui symbol,segoe ui emoji,apple color emoji,Roboto,Helvetica,Arial,sans-serif;
+p:first-of-type, .paragraph:first-of-type {
+  padding-top: 30px;
+}
+
+p:last-of-type, .paragraph:last-of-type {
+  padding-bottom: 30px;
+}
+
+section li {
+  font-family: neue-haas-grotesk-text, "Neue Hass Grotesk Text",-apple-system,BlinkMacSystemFont,segoe ui,segoe ui symbol,segoe ui emoji,apple color emoji,Roboto,Helvetica,Arial,sans-serif;
   font-weight: 400;
-  font-size: 16px;
-  line-height: 1.5;
+  font-size: 1.1rem;
+  line-height: 1.8rem;
+  transition: .1s ease;
+}
+
+section li a {
+  color: #D7772C;
+}
+
+section li:hover, section li:hover a {
+  background: #f8f9fa;
+  transition: .1s ease;
+}
+
+section a:hover {
+  text-decoration: underline;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
+  font-family: neue-haas-grotesk-text, "Neue Hass Grotesk Text", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
   font-weight: 400;
   line-height: 1.2;
   margin-top: 2.2rem;
 }
 
 h1, .h1 {
-  font-weight: 500;
+  font-weight: 700;
   font-size: 80px;
 }
 
@@ -146,12 +174,12 @@ h6, .h6 {
 
 /* Button style */
 .btn {
-  font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
+  font-family: neue-haas-grotesk-text, "Neue Hass Grotesk Text", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
   font-size: 15px;
   text-transform: capitalize;
   padding: 8px 20px;
   border-radius: 0;
-  font-weight: 500;
+  font-weight: 400;
   border: 1px solid;
   position: relative;
   z-index: 1;
@@ -423,7 +451,7 @@ a.text-dark:hover {
 }
 
 .font-secondary {
-  font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
+  font-family: neue-haas-grotesk-text, "Neue Hass Grotesk Text", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
 }
 
 .mb-10 {
@@ -630,6 +658,15 @@ textarea.form-control {
   color: #ffffff;
 }
 
+.card-content p {
+  position: absolute;
+  bottom: 0px;
+  left: 0;
+  right: 0;
+  color: #ffffff;
+  padding: 0;
+}
+
 .card-title {
   position: relative;
   bottom: 30px;
@@ -669,7 +706,7 @@ textarea.form-control {
 
 
 .pagination .page-item .page-link {
-  font-family: neue-haas-grotesk-display, "Neue Hass Grotesk Display", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
+  font-family: neue-haas-grotesk-text, "Neue Hass Grotesk Text", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
   border: 0;
   font-size: 16px;
   color: #D7772C;
@@ -844,20 +881,26 @@ textarea.form-control {
   .article-full-width .post-summary {
     display: none;
   }
+  .about blockquote {
+    left: 20% !important;
+    margin-left: -20% !important;
+    padding-left: 20px !important;
+  }
 }
 
-@media (max-width: 767px) {
+@media (max-width: 768px) {
   .article-full-width .post-summary {
     display: block;
   }
-  blockquote {
+  .about blockquote {
+    left: 0% !important;
     margin-left: 20px !important;
     padding-left: 20px !important;
   }
   blockquote p {
-    font-size: 1rem !important;
-    line-height: 1.5rem !important;
-    font-weight: 600;
+    font-size: 1.3rem !important;
+    line-height: 1.8rem !important;
+    font-weight: 400;
   }
 }
 
@@ -911,6 +954,8 @@ textarea.form-control {
 }
 
 blockquote {
+  margin-top: 30px;
+  margin-bottom: 30px;
   font-style: italic;
   color: ;
   background: none;
@@ -918,13 +963,26 @@ blockquote {
   border-left-width: 4px;
   border-left: 4px solid rgba(89, 86, 94, 0.5);
   padding: 0px 0 0px 40px;
-  margin: 40px 0 40px 40px;
+}
+
+.about blockquote {
+  position: relative;
+  left: 25%;
+  margin-left: -50%;
 }
 
 blockquote p {
   font-size: 1.5rem;
   line-height: 2.2rem;
-  font-weight: 600;
+  font-weight: 400;
+}
+
+blockquote p:first-of-type, 
+blockquote .paragraph:first-of-type, 
+blockquote p:last-of-type, 
+blockquote .paragraph:last-of-type {
+  padding-top: 0px;
+  padding-bottom: 0px;
 }
 
 .content * {
