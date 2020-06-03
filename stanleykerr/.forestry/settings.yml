@@ -48,8 +48,8 @@ sections:
   create: all
   match: "*.toml"
   new_doc_ext: toml
-upload_dir: stanleykerr/static/images
-public_path: "/images"
+upload_dir: stanleykerr/content/uploads
+public_path: "/uploads"
 front_matter_path: ''
 use_front_matter_path: false
 file_template: ":filename:"
