@@ -3,7 +3,7 @@ title: Ilyanna Euphemia
 date: 2019-05-14T08:46:10.000+00:00
 description: Ilyanna Euphemia
 type: post
-image: "/images/ilyanna-euphemia.jpg"
+image: "/uploads/ilyanna-euphemia.jpg"
 categories:
 - Portraits
 tags:
@@ -25,7 +25,7 @@ labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitatio
 aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum
 
 
-![](../images/post-img.jpg)
+![](../uploads/post-img.jpg)
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex

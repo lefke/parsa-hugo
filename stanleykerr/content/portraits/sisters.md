@@ -3,7 +3,7 @@ title: Sisters
 date: 2020-05-14T23:00:00.000+00:00
 description: Sisters
 type: post
-image: "/images/portrait-group-siblings.jpg"
+image: "/uploads/portrait-group-siblings.jpg"
 categories:
 - Portraits
 - Commissions
@@ -12,9 +12,9 @@ tags:
 
 ---
 
-![](/images/florence-final.jpg)
+![](/uploads/florence-final.jpg)
 
-![](/images/amber.jpg)
+![](/uploads/amber.jpg)
 
-![](/images/portrait-molly.jpg)
+![](/uploads/portrait-molly.jpg)
 

@@ -3,7 +3,7 @@ title: Florence
 date: 2020-05-14T23:00:00.000+00:00
 description: Amelie
 type: post
-image: "/images/florence-final.jpg"
+image: "/uploads/florence-final.jpg"
 categories:
 - Portraits
 tags:

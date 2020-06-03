@@ -3,17 +3,17 @@ title: Davies Children Collection
 date: 2019-05-14T08:46:10.000+00:00
 description: Davies Children Collection
 type: post
-image: "/images/daviescol-children14x14each.jpg"
+image: "/uploads/daviescol-children14x14each.jpg"
 categories:
 - Collections
 - Portraits
 tags:
 
 ---
-![](/images/eleanor.jpg)
+![](/uploads/eleanor.jpg)
 
-![](/images/cato.jpg)
+![](/uploads/cato.jpg)
 
-![](/images/audrey.jpg)
+![](/uploads/audrey.jpg)
 
-![](/images/arthur.jpg)
+![](/uploads/arthur.jpg)

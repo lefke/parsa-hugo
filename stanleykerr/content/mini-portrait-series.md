@@ -3,7 +3,7 @@ title: Commission a portrait
 date: 2020-05-14T23:00:00.000+00:00
 description: Miniature portrait commissions
 type: featured
-image: "/images/amilie-with-painting.jpg"
+image: "/uploads/amilie-with-painting.jpg"
 categories:
 - Portraits
 tags:

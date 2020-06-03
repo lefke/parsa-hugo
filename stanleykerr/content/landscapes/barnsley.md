@@ -2,7 +2,7 @@
 categories = ["Landscapes"]
 date = ""
 description = "Barnsley"
-image = "/images/landscape-barnsley.jpg"
+image = "/uploads/landscape-barnsley.jpg"
 tags = []
 title = "Barnsley"
 type = "post"

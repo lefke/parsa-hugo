@@ -3,7 +3,7 @@ title: Florence
 date: 2020-05-14T23:00:00.000+00:00
 description: Florence
 type: post
-image: "/images/portrait-florence.jpg"
+image: "/uploads/portrait-florence.jpg"
 categories:
 - Portraits
 - Commissions

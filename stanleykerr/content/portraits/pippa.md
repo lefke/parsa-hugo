@@ -2,7 +2,7 @@
 categories = ["Portraits"]
 date = ""
 description = "Pippa"
-image = "/images/69pippa.jpg"
+image = "/uploads/69pippa.jpg"
 tags = []
 title = "Pippa"
 type = "post"
