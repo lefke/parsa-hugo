@@ -14,6 +14,8 @@ menu:
     weight: 1
 
 ---
-Commission a miniature birthday portrait as a gift every year and create an unforgettable record of your child’s-grandchilds development.
+Available for portrait commissions and sales.  
+  
+Contact by email at first for more information, timing, prices etc. or to discuss a commission.
 
-Painted from a favourite photograph or with online sittings (FaceTime or Skype) and watch the portrait being created. Contact by email at first for more information, timing, prices etc. or to discuss a commission.
+[stanleykerr@yahoo.com](mailto:stanleykerr@yahoo.com)
