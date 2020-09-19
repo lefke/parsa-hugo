@@ -80,7 +80,7 @@ link = "plugins/search/mark.js"
 [[params.plugins.js]]
 link = "plugins/search/search.js"
 [[params.social]]
-URL = "https://instagram.com/stanleykerr"
+URL = "https://instagram.com/stanleyskerr"
 icon = "ti-instagram"
 [[params.social]]
 URL = "#"
