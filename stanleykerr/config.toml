@@ -82,6 +82,3 @@ link = "plugins/search/search.js"
 [[params.social]]
 URL = "https://instagram.com/stanleyskerr"
 icon = "ti-instagram"
-[[params.social]]
-URL = "#"
-icon = "ti-facebook"
