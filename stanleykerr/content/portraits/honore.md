@@ -8,5 +8,6 @@ categories:
 - Portraits
 tags:
 - children's portraits
+show_on_home_page: true
 
 ---
