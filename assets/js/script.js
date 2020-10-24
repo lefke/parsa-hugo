@@ -45,14 +45,17 @@
     ]
   });
 
-  // Masonry
-  setTimeout(function(){
-    $('.masonry-container').masonry({
-      itemSelector: '.masonry-container > div',
-      columnWidth: 1
-    });
-  }, 500);
 
+  
+  // init Masonry
+  var $grid = $('.masonry-container').masonry({
+    itemSelector: '.masonry-container > div',
+    columnWidth: 1
+  });
+  // layout Masonry after each image loads
+  $grid.imagesLoaded().progress( function() {
+    $grid.masonry('layout');
+  });
 
   // instafeed
   if (($('#instafeed').length) !== 0) {
