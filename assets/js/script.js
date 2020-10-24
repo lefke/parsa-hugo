@@ -53,34 +53,7 @@
     });
   }, 500);
   
-  $('.masonry-container').imagesLoaded( function() {
-    // images have loaded
-  });
 
-  // options
-  $('.masonry-container').imagesLoaded( {
-    // options...
-    },
-    function() {
-      // images have loaded
-    }
-  );
-  
-  $('.masonry-container').imagesLoaded()
-    .always( function( instance ) {
-      console.log('all images loaded');
-    })
-    .done( function( instance ) {
-      console.log('all images successfully loaded');
-    })
-    .fail( function() {
-      console.log('all images loaded, at least one is broken');
-    })
-    .progress( function( instance, image ) {
-      var result = image.isLoaded ? 'loaded' : 'broken';
-      console.log( 'image is ' + result + ' for ' + image.img.src );
-    });
-    
     
   // instafeed
   if (($('#instafeed').length) !== 0) {
@@ -140,3 +113,32 @@
 
 
 })(jQuery);
+
+$('.masonry-container').imagesLoaded( function() {
+  // images have loaded
+});
+
+// options
+$('.masonry-container').imagesLoaded( {
+  // options...
+  },
+  function() {
+    // images have loaded
+  }
+);
+
+$('.masonry-container').imagesLoaded()
+  .always( function( instance ) {
+    console.log('all images loaded');
+  })
+  .done( function( instance ) {
+    console.log('all images successfully loaded');
+  })
+  .fail( function() {
+    console.log('all images loaded, at least one is broken');
+  })
+  .progress( function( instance, image ) {
+    var result = image.isLoaded ? 'loaded' : 'broken';
+    console.log( 'image is ' + result + ' for ' + image.img.src );
+  });
+  
