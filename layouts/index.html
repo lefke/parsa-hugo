@@ -55,7 +55,7 @@
         <article class="card text-center text-white border-0 rounded-0">
         {{ with .Params.image }}
           {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
-          {{ $resized := $imageResource.Fill "200x200" }}
+          {{ $resized := $imageResource.Resize "600x" }}
           <img class="card-img rounded-0 img-fluid w-100" src="{{ $resized.RelPermalink }}" alt="post-thumb">
         {{ end }}
           <div class="card-img-overlay card-hover-overlay">
