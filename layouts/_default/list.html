@@ -31,7 +31,12 @@
               <a href="{{.Permalink}}" class="btn btn-transparent">read more</a>
             </article-->
             <article class="card text-center text-white border-0 rounded-0">
+              
+              {{ with .Params.image }}
+                {{ $imageResource := ($.Site.GetPage "section" "uploads").Resources.GetMatch (strings.TrimPrefix "/uploads/" . ) }}
+                {{ $resized := $imageResource.Resize "600x" }}
               <img class="card-img rounded-0 img-fluid w-100" src="{{.Params.Image | absURL}}" alt="post-thumb">
+              {{ end }}
               <div class="card-img-overlay card-hover-overlay">
               </div>
               <a class="card-content" href="{{.Permalink}}">
