@@ -166,11 +166,11 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 28px;
+  font-size: 20px;
 }
 
 h5, .h5 {
-  font-size: 20px;
+  font-size: 18px;
 }
 
 h6, .h6 {
@@ -736,7 +736,7 @@ textarea.form-control {
     font-size: 16px;
   }
   .navbar-caption h4 {
-    font-size: 22px;
+    font-size: 20px;
   }
 }
 @media (max-width: 575px) {
