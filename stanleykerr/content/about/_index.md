@@ -16,7 +16,7 @@ Trained in Drawing and Painting at Maidstone College of Art, he has worked in ad
 >   **_Britart Gallery_**
 
 * **_Banking on People_** - A visual expression of the Standard Chartered culture. Investor Limited Edition 2010
-* **_Behind the Portrait_** - 2003 Article on portrait commissioning for Beach Magazines and Publishing - Junior Magazine 2004 -
+* **_Behind the Portrait_** - 2003 Article on portraits. Beach Magazines and Publishing - Junior Magazine 2004 -
 * **_Purchase with Passion_** Country Homes, IPC Magazines 2003
 
 ### Exhibitions
@@ -40,7 +40,6 @@ Trained in Drawing and Painting at Maidstone College of Art, he has worked in ad
 * 2007 Contemporary Fine Art Eton
 * 2008 Flaubert Gallery Edinburgh
 * 2009 Colomb Gallery Marylebone London
-* 2010 Kilani Limassol Cyprus
 * 2010 Rowley Gallery Kensington London
 * 2010 Colomb Gallery Marylebone London
 
