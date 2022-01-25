@@ -6,5 +6,6 @@ image = "/uploads/abstract-marble-triangle.jpg"
 tags = []
 title = "Marble Triangle"
 type = "post"
+weight = -90
 
 +++
