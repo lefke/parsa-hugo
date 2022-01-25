@@ -1,10 +1,10 @@
 +++
 categories = ["Abstracts"]
 date = ""
-description = "Square 02"
+description = "Square 2   Paper on board  26x26cm"
 image = "/uploads/abstract-square-02-100.jpg"
 tags = []
-title = "Square 02"
+title = "Square 2"
 type = "post"
 
 +++
