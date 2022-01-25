@@ -24,12 +24,17 @@ body {
   font-family: neue-haas-grotesk-text, "Neue Hass Grotesk Text", -apple-system, BlinkMacSystemFont, "Segoe UI", "Segoe UI Symbol", "Segoe UI Emoji", "Apple Color Emoji", Roboto, Helvetica, Arial, sans-serif; /* 1 */
   color: #59565E;
 }
+.navbar {
+    padding-top: 0;
+    padding-bottom: 0;
+}
 .navbar-brand {
   max-width: 20%;
   display: block;
+  padding-bottom: 0;
 }
 .navbar-caption {
-  padding: 0 1.7rem;
+  padding: 0 1.4rem;
   margin: 0;
 }
 .navbar-caption h4 {
@@ -58,7 +63,7 @@ footer li, footer a, footer p {
 }
 
 li.nav-item {
-  font-size: 1.4rem;
+  font-size: 1.2rem;
 }
 
 article.content h4:first-of-type {
@@ -161,7 +166,7 @@ h3, .h3 {
 }
 
 h4, .h4 {
-  font-size: 30px;
+  font-size: 28px;
 }
 
 h5, .h5 {
@@ -575,7 +580,7 @@ textarea.form-control {
 }
 
 .navbar .nav-item .nav-link {
-  padding: 20px 15px;
+  padding: 12px 12px;
 }
 
 @media (max-width: 991px) {
@@ -643,7 +648,7 @@ textarea.form-control {
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
 }
-
+/*
 .card-img-overlay::before {
   position: absolute;
   content: "";
@@ -652,7 +657,7 @@ textarea.form-control {
   width: 100%;
   top: 0;
   left: 0;
-}
+}*/
 
 .card-content {
   padding: 30px;
