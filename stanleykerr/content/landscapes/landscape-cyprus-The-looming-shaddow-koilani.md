@@ -1,7 +1,7 @@
 +++
 categories = ["Landscapes"]
 date = ""
-description = "The looming shadow Koilani"
+description = "Koilani in shade"
 image = "/uploads/landscape-cyprus-The-looming-shaddow-koilani.jpg"
 tags = []
 title = "Koilani in shaddow"
