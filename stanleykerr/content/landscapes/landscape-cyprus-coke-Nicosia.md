@@ -1,10 +1,10 @@
 +++
 categories = ["Landscapes"]
 date = ""
-description = "Coke Nicosia"
+description = " Near the green line"
 image = "/uploads/landscape-cyprus-coke-Nicosia.jpg"
 tags = []
-title = "Coke Nicosia"
+title = "Old Nicosia"
 type = "post"
 
 +++
