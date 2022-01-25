@@ -7,5 +7,9 @@ show_on_home_page = true
 tags = []
 title = "The Perfect Square"
 type = "post"
+weight = -99
 
 +++
+40x40 in
+
+Oil on canvas
