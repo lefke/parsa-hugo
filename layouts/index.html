@@ -60,7 +60,7 @@
         {{ end }}
           <div class="card-img-overlay card-hover-overlay">
           </div>
-          <a class="card-content" href="{{.Permalink}}">
+          <a class="card-content" href="{{ .Site.BaseURL}}{{ .Section }}">
             <p class="text-uppercase">{{.Section}}</p>
             <!--h4 class="card-title mb-4">{{.Title}}</h4-->
             <!--a class="btn btn-outline-light" href="{{.Permalink}}">read more</a-->
