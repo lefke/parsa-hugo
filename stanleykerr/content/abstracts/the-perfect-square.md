@@ -1,7 +1,7 @@
 +++
 categories = ["Abstracts"]
 date = ""
-description = "The Perfect Square"
+description = "The Perfect Square     Oil on canvas  102x102cm"
 image = "/uploads/abstract-The-Perfect-Square-441.jpg"
 show_on_home_page = true
 tags = []
