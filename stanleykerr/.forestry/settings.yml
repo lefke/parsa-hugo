@@ -38,8 +38,13 @@ sections:
   create: none
   match: "*"
 - type: directory
-  path: stanleykerr/content/contact
-  label: Contact
+  path: stanleykerr/content/homepage-slider
+  label: Slider - desktop
+  create: none
+  match: "*"
+- type: directory
+  path: stanleykerr/content/mobile-slider
+  label: Slider - mobile
   create: none
   match: "*"
 - type: directory
