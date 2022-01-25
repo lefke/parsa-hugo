@@ -1,10 +1,10 @@
 +++
 categories = ["Abstracts"]
 date = ""
-description = "Number line spiral - grey square"
+description = "Number line spiral"
 image = "/uploads/abstract-numberlinespiral-square-grey-print.jpg"
 tags = []
-title = ""
+title = "Spiral 8"
 type = "post"
 
 +++
