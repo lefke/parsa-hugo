@@ -21,11 +21,8 @@ Trained in Drawing and Painting at Maidstone College of Art, he has worked in ad
 
 ### Exhibitions
 
-* 009 Sheridan Russell, Gallery
-
-
 * ICA 78 Summer Exhibition with the Conceptual Art Group Gallery LissonStreet
-* EKATE Annual shows 1988, Famagusta Gate, Nicosia Cyprus
+* EKATE, Famagusta Gate, Nicosia Cyprus
 * Laban Cultural Centre Beirut
 * 2004 Royal Society of Portrait Painters
 * 2003 The Mall Gallery London
