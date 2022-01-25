@@ -1,7 +1,7 @@
 +++
 categories = ["Landscapes"]
 date = ""
-description = "The road goes ever on"
+description = ""
 image = "/uploads/landscape-cyprus-The-road-goes-ever-on.jpg"
 tags = []
 title = "The wine route"
