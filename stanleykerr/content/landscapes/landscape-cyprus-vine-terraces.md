@@ -1,10 +1,10 @@
 +++
 categories = ["Landscapes"]
 date = ""
-description = "Vine Terraces"
-image = "/uploads/landscape-cyprus-FullSizeRender.jpg"
+description = "View towards Lofou"
+image = "/uploads/near-lofou-copy.jpg"
 tags = []
-title = "Vine Terraces"
+title = "Ancient Terraces"
 type = "post"
 
 +++
