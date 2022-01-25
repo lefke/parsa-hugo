@@ -18,4 +18,4 @@ Available for portrait commissions.
 
 Contact by email at first for more information or to discuss a commission.
 
-[stanleykerr@](mailto:stanleykerr@yahoo.com)stanleykerr.co.uk
+[stanleykerr@stanleykerr.co.uk](mailto:stanleykerr@stanleykerr.co.uk "stanleykerr@stanleykerr.co.uk")
