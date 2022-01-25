@@ -38,6 +38,7 @@ body {
   margin: 0;
 }
 .navbar-caption h4 {
+  font-size: 28px;
   font-weight: 400;
   color: rgba(89, 86, 94, 0.6);
 }
@@ -569,7 +570,7 @@ textarea.form-control {
   }
   
   .navbar-brand {
-    max-width: 35%;
+    max-width: 32%;
   }
 }
 
