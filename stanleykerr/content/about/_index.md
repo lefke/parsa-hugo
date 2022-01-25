@@ -7,13 +7,11 @@ image: uploads/author.jpg
 ---
 ## Biography
 
-Trained in Drawing and Painting at Maidstone College of Art, he has worked in advertisings as an illustrator and  Creative Director with a major international advertising agency. He has participated in group shows both here and abroad where he has a number of works in private collections.
+Trained in Drawing and Painting at Maidstone College of Art, he has worked in advertisings as an illustrator and  Creative Director with a major international advertising agency. He has participated in group shows both here and abroad where he has a number of works in private collections. He has been active and visible as a painter on the international scene for many years now, and participated in the groundbreaking 1978 ICA Summer Exhibition with the Bell St Gallery Conceptual Art Group.
 
 ### Press
 
-> "Extraordinary in their psychological acuity, Stanley Kerr's portraits evince a skilful grasp of colour and texture. They disclose a fleeting truth that is as much technical intuition as emotional radar. Faces are taken from the side, obscured, at times in traditional 3/4 profile, limned in subtle tonalities and with stark expressive power that calls on affinities as diverse as Renaissance portraiture. The compositions are precise and uncluttered, the figure or face against a background of some rich, modulated colour. There is an electricity to their classical poise, an aura of self-sufficiency as object vying with a personal force.
->
->  He has been active and visible as a painter on the international scene for many years now, and participated in the groundbreaking 1978 ICA Summer Exhibition with the Bell St Gallery Conceptual Art Group.
+> "Extraordinary in their psychological acuity, Stanley Kerr's portraits evince a skilful grasp of colour and texture. They disclose a fleeting truth that is as much technical intuition as emotional radar. Faces are taken from the side, obscured, at times in traditional 3/4 profile, limned in subtle tonalities and with expressive power that calls on affinities as diverse as Renaissance portraiture. The compositions are precise and uncluttered, the figure or face against a background of some rich, modulated colour. There is an electricity to their classical poise, an aura of self-sufficiency as object vying with a personal force.
 >
 >   **_Britart Gallery_**
 
