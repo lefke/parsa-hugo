@@ -4,7 +4,7 @@ date = ""
 description = "Stavrovouni"
 image = "/uploads/landscape-cyprus-stavrovouni.jpg"
 tags = []
-title = "Stavrovouni"
+title = "Stavrovouni Oil on canvas  40x40cm"
 type = "post"
 
 +++
