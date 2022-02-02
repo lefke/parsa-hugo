@@ -4,7 +4,7 @@ date = ""
 description = "View towards Lofou               Oil on canvas 97x72cm"
 image = "/uploads/near-lofou-copy.jpg"
 tags = []
-title = "Ancient Terraces"
+title = "Ancient Terraces  Oil on Canvas  97x72cm"
 type = "post"
 
 +++
